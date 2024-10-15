@@ -1,0 +1,23 @@
+1/ Qu'est-ce qu'un système?
+Un système est un ensemble d'élément qui intéragissent entre eux, elle est mise en place par une personne ou une organisation pour un bon fonctionnement de celle-ci.
+
+2/ Qu'est-ce qu'un système d'information?
+Un système d'information est un mécanisme mis en place par une personne ou une organisation pour le captage, le traitement, le stockage, et la distribution de l'information.
+
+3/ Quel est le système de wave?
+Le système de wave est le transfert d'argent.
+
+4/ Détailler le système de wave.
+- Quel est le besoin? (objectif de la plateforme)
+- Qui va l'utiliser? (acteurs du système)
+- Quels sont les règles de gestion? (modéliser le processus, modéliser les données)
+Le système de Wave repose sur une application mobile qui permet aux utilisateurs d'accéder à des services financiers de manière simple et abordable.
+Wave fonctionne comme un portefeuille électronique, qui nous permet de faire des transactions tels que faire des achats en ligne entre autres les transferts d’argent, paiement des factures. 
+Pour les acteurs, on aura un administrateur pour le traitement des données des clients, des développeurs pour la maintenance et le dépannage de la plateforme.
+
+5/ Identifier 05 modules de wave.
+- Portefeuille électronique : Permet aux utilisateurs de déposer, transférer et retirer de l'argent directement via l'application mobile, en remplacement des services bancaires traditionnels.
+- Paiements de factures : Les utilisateurs peuvent régler leurs factures (électricité, eau, internet) directement depuis l'application sans avoir à se rendre sur place.
+- Achat de crédit téléphonique : Offre la possibilité d'acheter du crédit pour les téléphones mobiles de manière rapide et facile.
+- Gestion des agents Wave : Un réseau d'agents permet aux utilisateurs de déposer ou de retirer de l'argent dans des points physiques, gérés via un système de gestion des agents.
+- Transferts d'argent : Module permettant d'envoyer et de recevoir de l'argent de manière instantanée entre utilisateurs de l'application Wave, sans frais ou avec des frais réduits.
